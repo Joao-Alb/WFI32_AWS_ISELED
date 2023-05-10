@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/pic32mz_w1_curiosity/production/PIC32MZW1_Curiosity_MQTT_sum-ISELEDv2.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>1049728</length>                 
+      <used>896712</used>                     
+      <free>153016</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>262144</length>                 
+      <used>61224</used>                     
+      <free>200920</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
